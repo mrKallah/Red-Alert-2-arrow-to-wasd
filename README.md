@@ -1,6 +1,8 @@
 # Red-Alert-2-arrow-to-wasd
 Lets you launch the ORIGIN version of Red Alert 2 (CD version not tested) using WASD instead of arrow keys for camera movement
 
+This was originally written by me for the cd version and has now been updated to work with the ORIGIN version. I cannot find my cd version of the game and thus testing will not be possible. Feedback will be helpfull if you have the CD version and you can test it.
+
 # Install
 To install the program download the files as a zip using github and move the
 
@@ -54,3 +56,7 @@ Run the wasd_ra2_launcher.exe as an administrator
 # Sources and use
 If you want to change, adapt or modify the sources provided in this project then I hereby grant anyone the permission to do so as long as I am sourced properly
 
+# DISCLAIMER
+This program modifies a file called wasd_search.log in the install directory of Red Alert 2, any other program that use the same name would not work as intended when this is running. 
+
+I am not responsible for anything breaking if you install this, its tested on two systems of Windows 10 and it works on both. 
