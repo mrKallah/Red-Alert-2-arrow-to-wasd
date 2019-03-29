@@ -13,7 +13,12 @@ wasd.vbs
 wasd_ra2_launcher.exe
 ```
 
-to the install directory. 
+to the install directory of Red Alert 2. 
+
+Avoid having to rightclick and run as administrator by right clicking the wasd_ra2_launcher.exe, pressing compatability and tick the "Run this program as an administrator" box. See image below for illustration.
+
+![Administrator privelages](https://i.gyazo.com/ed390b81a97336b908b832cd812e7e81.png)
+Format: ![Avoid having to rightclick and run as administrator by going to properties -> compatability and tick the "Run this program as an administrator" box](url)
 
 ### Not default directory
 If the install directory is not the default (C:\Program Files (x86)\Origin Games\Command and Conquer Red Alert II)
