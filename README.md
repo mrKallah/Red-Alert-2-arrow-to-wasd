@@ -13,7 +13,7 @@ wasd_ra2_launcher.exe
 
 to the install directory. 
 
-## Not default directory
+### Not default directory
 If the install directory is not the default (C:\Program Files (x86)\Origin Games\Command and Conquer Red Alert II)
 then you must edit wasd.bat
 
@@ -24,7 +24,7 @@ set dir="C:\Program Files (x86)\Origin Games\Command and Conquer Red Alert II"
 
 Change the directory for that line to the appropriate one. 
 
-## Using CnCNet
+### Using CnCNet
 If using the cncnetclient you must change the lines
 ```
 start "" %dir%\Ra2.exe
@@ -36,7 +36,7 @@ REM start "" %dir%\Ra2.exe
 start "" %dir%\CnCNetYRLauncher.exe
 ```
 
-## Other mods that use launchers
+### Other mods that use launchers
 If the launcher is not supported, it can be added by adding a new variable under the REM Variables section with
 ```
 set newlauncher=newlauncer.exe
