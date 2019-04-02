@@ -30,6 +30,9 @@ set dir="C:\Program Files (x86)\Origin Games\Command and Conquer Red Alert II"
 
 Change the directory for that line to the appropriate one. 
 
+### Changing other keybinds
+In ./src/ there is a wasd.ahk which contain the ahk script used to rebind keys. If this is changed and recompiled into a wasd.exe file then the wasd.exe file that comes with this project can be replaced by this new file. Any exe called wasd.exe will run when the script starts and so technically it doesnt have to be a ahk script, however it will only automatically shut down any wasd.exe file that show up in the taskmanager as wasd.exe. 
+
 ### Using CnCNet
 If using the cncnetclient you must change the lines
 ```
