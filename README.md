@@ -5,7 +5,7 @@ This was originally written by me for the cd version and has now been updated to
 
 # Install
 
-It is required to download this dependency
+It is required to download and install this dependency
 https://www.microsoft.com/en-us/download/details.aspx?id=52685
 
 To install the program download the files as a zip using github and move the
