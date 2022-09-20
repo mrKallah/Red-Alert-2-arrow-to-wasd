@@ -4,6 +4,10 @@ Lets you launch the ORIGIN version of Red Alert 2 (CD version not tested) using 
 This was originally written by me for the cd version and has now been updated to work with the ORIGIN version. I cannot find my cd version of the game and thus testing will not be possible. Feedback will be helpfull if you have the CD version and you can test it.
 
 # Install
+
+It is required to download this dependency
+https://www.microsoft.com/en-us/download/details.aspx?id=52685
+
 To install the program download the files as a zip using github and move the
 
 ```
